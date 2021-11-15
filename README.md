@@ -25,4 +25,26 @@ This app creates a campground review website where users can
 
 ## Techs
 
-### 
+### Frontend/UI
+
+- HTML/CSS/Javascript/EJS/Bootstrap/Method-override
+
+### Backend
+
+- Node/MongoDB/Mongoose/Express/Cloudinary
+
+### Modularization
+
+- ES6+/CommonJS
+
+### Code Building
+
+- Heroku/MongoDB Atlas
+
+### Security/Validation/Error Handling
+
+- Helmet/passport/passport-local/
+
+### Others
+
+- Mapbox
