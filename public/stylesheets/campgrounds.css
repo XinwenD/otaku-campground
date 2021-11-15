@@ -1,0 +1,31 @@
+#cluster-map {
+  border-left: solid 5px #00b5fc;
+  border-radius: 0 5px 5px 0;
+  box-shadow: 0 0 5px #b4b7b8;
+}
+
+.campgrounds-index-title {
+  margin: 0;
+  padding: 20px 0;
+  text-align: center;
+  font-weight: 500;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.campground {
+  border-left: solid 5px #b4b7b8;
+}
+.campground:hover {
+  box-shadow: 0 0 5px gray;
+  border-left: solid 5px #02b6f7;
+}
+
+.img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.camp-img {
+  border-radius: 0 5px 5px 0;
+}
